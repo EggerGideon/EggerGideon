@@ -80,6 +80,7 @@
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" />  
   <img width="12" />
+  <br>
   <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />  
