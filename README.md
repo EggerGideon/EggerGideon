@@ -18,7 +18,7 @@
 ###
 
 <div align="cetnter">
-  <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="adobelightroom" height="40" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
