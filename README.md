@@ -1,3 +1,4 @@
+## Development
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -15,9 +16,9 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
 </div>
 
-###
+### Photography & Videography
 
-<div align="cetnter">
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="adobelightroom" height="40" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -33,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
-###
+### Server
 
 
 
