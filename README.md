@@ -20,6 +20,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
@@ -38,6 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
