@@ -72,6 +72,7 @@
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="40" />  
   <img width="12" />
+  <br>
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
@@ -91,6 +92,7 @@
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" />  
   <img width="12" />
+  <br>
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />  
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" />  
