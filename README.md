@@ -59,27 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>  
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KBDGidi/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-</div>
-
-###
-
-
 ### My programming Experience  
+
 <div align="center">  
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
   <img width="12" />
