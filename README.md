@@ -1,3 +1,6 @@
+# Welcome to my Profile!
+## Hi, I'm Gideon, a Photographer, Videographer, Webdeveloper and Softwaredeveloper!
+
 ## My Skill Set
 ### OS
 
