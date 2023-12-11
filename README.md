@@ -62,6 +62,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-plain.svg" height="40" alt="filezilla logo"  />
 </div>  
 
 ### Programming Languages
