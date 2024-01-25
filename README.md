@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-### Photography & Videography
+### Photography, Videography & Design
 
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="adobelightroom" height="40" />
